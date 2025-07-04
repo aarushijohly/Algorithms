@@ -1,1 +1,1 @@
-Recursive doubling algorithm
+1. Recursive doubling algorithm
